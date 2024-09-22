@@ -4,7 +4,7 @@ just use it
 
 FIRST INSTALL
 
-pip install chatterbot chatterbot_corpus
+you can install -> pip install chatterbot chatterbot_corpus
 
 pip install setuptools wheel
 
