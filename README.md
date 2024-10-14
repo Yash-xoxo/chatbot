@@ -1,6 +1,6 @@
 Different universe different chat ai
 
-just use it.
+just use it..
 
 FIRST INSTALL THE REQUIREMENTS
 
